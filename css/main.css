@@ -1,0 +1,75 @@
+body {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    border: 2px;
+    border-style: solid;
+    font-variant: small-caps;
+    color: black;
+    font-weight: bold;
+}
+#img1 {
+border: 90%, 80%;
+border-style: solid;
+color: aquamarine;
+background-color: darkgreen;
+width: 45%;
+height: 60%;
+margin: auto;
+padding: 10px;
+float: right;
+clear: right;
+}
+#img2 {
+    border: 90%, 80%;
+    border-style: solid;
+    color: aquamarine;
+    background-color: darkgreen;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+    float:left;
+    clear: left;
+    }
+
+h1{
+    font-size: 25px;
+    color: peru;
+}
+h2{
+    font-size: 20px;
+    color: peru;
+}
+main{
+    height: 70vh;
+}
+ul{
+    list-style-type: circle; 
+   line-height: 50px;
+  }
+  ul li {
+    color: rgb(21, 0, 255);
+  }
+figcaption{
+    font-weight: bold;
+    font-size: 10px;
+    color: peru;
+    padding: 5px;
+}
+header{
+    background-color: green;
+}
+footer{
+    background-color: green;
+}
+footer p{
+    color: peru;
+}
+ul a:hover{
+    color: aquamarine;
+}
+.structural {
+    padding: 10px;
+    margin: 10px;
+}
